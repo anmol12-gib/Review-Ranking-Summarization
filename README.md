@@ -76,6 +76,9 @@ Important columns:
 
 ---
 
+<img width="581" height="417" alt="image" src="https://github.com/user-attachments/assets/2a6a9f38-6f82-4ea6-8631-f179495e781a" />
+
+
 ## Output Format
 
 The system generates:
@@ -90,6 +93,9 @@ The system generates:
   * Sentiment distribution
   * Keywords
   * Graphs
+ 
+<img width="722" height="566" alt="image" src="https://github.com/user-attachments/assets/fa43f4ab-6e4f-48f2-af13-4bb64b3ad009" />
+
 
 ---
 
@@ -115,6 +121,9 @@ The system generates:
    * Final score = weighted combination of features
 
 ---
+
+<img width="691" height="470" alt="convergence_curve" src="https://github.com/user-attachments/assets/9cfbdb7c-717b-4847-a42e-db1f57c47329" />
+
 
 ## Evaluation Metrics
 
