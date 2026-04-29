@@ -140,7 +140,7 @@ The system generates:
 
 ---
 
-## Author
+### Author
 
 ANMOL VIRMANI (2023UIT3040)
 VINAYAK KHANDELWAL (2023UIT3371)
