@@ -146,6 +146,3 @@ ANMOL VIRMANI \
 VINAYAK KHANDELWAL 
 ---
 
-## Declaration
-
-This project is original work and has not been copied from external sources.
