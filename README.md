@@ -142,8 +142,8 @@ The system generates:
 
 ### Author
 
-ANMOL VIRMANI (2023UIT3040)
-VINAYAK KHANDELWAL (2023UIT3371)
+ANMOL VIRMANI \
+VINAYAK KHANDELWAL 
 ---
 
 ## Declaration
